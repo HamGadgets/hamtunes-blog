@@ -1,6 +1,6 @@
 backend:
-  name: github
-  repo: YOUR_GITHUB_USERNAME/YOUR_GITHUB_REPOSITORY
+  name: github 
+  repo: HamGadgets/hamtunes-blog
   branch: main
 
 site_url: https://celadon-lebkuchen-2fbe9e.netlify.app
