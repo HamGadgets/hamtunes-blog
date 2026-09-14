@@ -1,1 +1,40 @@
-
+{
+  "articles": [
+    {
+      "title": "New sounds, new energy: what’s moving the scene",
+      "slug": "new-sounds-new-energy",
+      "category": "Music",
+      "excerpt": "A clean editorial space for releases, studio stories, artist features and music commentary.",
+      "cover_image": "",
+      "author": "HamTunes",
+      "date": "2026-09-13",
+      "status": "published",
+      "read_time": "5 min read",
+      "body": "## Your story starts here\n\nReplace this text from the HamTunes Admin panel. Add your article, artist feature, release story or commentary here."
+    },
+    {
+      "title": "The stories worth knowing today",
+      "slug": "the-stories-worth-knowing-today",
+      "category": "News",
+      "excerpt": "A clean editorial format for breaking updates, opinions and important conversations.",
+      "cover_image": "",
+      "author": "HamTunes",
+      "date": "2026-09-13",
+      "status": "published",
+      "read_time": "3 min read",
+      "body": "## News article\n\nAdd the key facts, context and your editorial angle here."
+    },
+    {
+      "title": "Tech that actually changes everyday life",
+      "slug": "tech-that-changes-everyday-life",
+      "category": "Technology",
+      "excerpt": "Reviews, useful apps, phones, AI tools and practical digital discoveries.",
+      "cover_image": "",
+      "author": "HamTunes",
+      "date": "2026-09-13",
+      "status": "published",
+      "read_time": "4 min read",
+      "body": "## Technology story\n\nUse this article as your first technology post."
+    }
+  ]
+}
